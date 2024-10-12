@@ -15,8 +15,8 @@ A simple, responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This
 
 ## Preview
 
-![Tic-Tac-Toe Board](images/Screenshot 2024-10-12 152839.png)
-![Tic-Tac-Toe Board](images/Screenshot 2024-10-12 152917.png)
+![Tic-Tac-Toe Board](.\images\Screenshot2.png)
+![Tic-Tac-Toe Board](.\images\Screenshot1.png)
 
 ## How to Play
 
